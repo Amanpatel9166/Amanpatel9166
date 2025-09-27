@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Amanpatel9166
+- 👋 Hi, I’m Aman
 - 👀 I’m interested in web devlopment
-- 🌱 I’m currently learning BCA
+- 🌱 I’m  recently completed my BCA 
 - 💞️ I’m looking to collaborate any 
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
